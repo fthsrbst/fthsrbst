@@ -1,4 +1,4 @@
-![logo](https://github.com/fthsrbst/fthsrbst/blob/main/banner.png)
+![logo](https://github.com/fthsrbst/fthsrbst/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm FATIH SERBEST</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 
