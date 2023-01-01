@@ -1,9 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm FATIH SERBEST</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 
-
 - 🌱 I’m currently learning **C++,HTML,Javascript**
+
+- 📫 How to reach me **fatihxserbest@gmail.com**
+
+- ⚡ Fun fact **I am fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fthsrbst&show_icons=true&locale=en&layout=compact" alt="fthsrbst" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fthsrbst&" alt="fthsrbst" /></p>
+
