@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm FATIH SERBEST</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/fatih/OneDrive/Masaüstü/FATIHS'%20FILES/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 🌱 I’m currently learning **C++,HTML,Javascript**
 
