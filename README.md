@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **C++,HTML,Javascript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://user-images.githubusercontent.com/62892272/210180822-a894b170-a250-45e1-a18b-5f2b18f1ce8b.gif)
+
 <p align="left">
 <a href="https://linkedin.com/in/fatih serbest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih serbest" height="30" width="40" /></a>
 <a href="https://instagram.com/fatih_srbstt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih_srbstt" height="30" width="40" /></a>
