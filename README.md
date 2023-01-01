@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthsrbst&label=Profile%20views&color=0e75b6&style=flat" alt="fthsrbst" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fthsrbst" alt="fthsrbst" /></a> </p>
-
 - 🌱 I’m currently learning **C++,HTML,Javascript**
 
 - 📫 How to reach me **fatihxserbest@gmail.com**
