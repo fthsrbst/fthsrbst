@@ -1,30 +1,24 @@
-![logo](https://github.com/fthsrbst/fthsrbst/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm FATIH SERBEST</h1>
-<h3 align="center">A passionate developer from Turkiye</h3>
+### Hi there, I'm Fatih! 👋
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+🚀 **Software Engineer | AI & Game Developer | Aspiring Entrepreneur**
 
+I'm a passionate software engineer and game developer, currently studying **Software Engineering at Beykoz University**. I have experience in **C#, Python, C++, SQL**, and enjoy working with **ASP.NET, Unreal Engine 5, and AI technologies**. My dream is to build my own **AI-focused software company** in the future.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fthsrbst&label=Profile%20views&color=0e75b6&style=flat" alt="fthsrbst" /> </p>
+💡 **What I'm Working On:**
+- 🎮 Developing a **post-apocalyptic zombie survival game** in **Unreal Engine 5 & C++**.
+- 🖥️ Building **AcunMedya_Agency**, a web project using **ASP.NET MVC & Entity Framework**.
+- 📦 Creating an **AI-powered Inventory Management System** for e-commerce businesses.
+- 🌍 Improving my **English & Spanish** skills to reach a fluent level.
 
-- 🌱 I’m currently learning **C++,HTML,Javascript**
+📌 **Tech Stack & Skills:**
+- 💻 **Languages:** C#, Python, C++, SQL
+- 🏗️ **Web Development:** ASP.NET MVC, Entity Framework, Bootstrap 5
+- 🎮 **Game Development:** Unreal Engine 5 (Blueprints & C++)
+- 🧠 **AI & Data:** Machine Learning, SQL Databases
+- 📦 **Tools & Platforms:** Docker, MSSQL, GitHub, Linux, Windows, Mac
 
-- 📫 How to reach me **fatihxserbest@gmail.com**
+📫 **Let's Connect!**
+- 🔗 [Portfolio Website](#) (Coming soon)
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/fatih-serbest-a21425223/))
 
-- ⚡ Fun fact **I am fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatih serbest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih serbest" height="30" width="40" /></a>
-<a href="https://instagram.com/fatih_srbstt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih_srbstt" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/R7v9G8Sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/R7v9G8Sd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fthsrbst&show_icons=true&locale=en&layout=compact" alt="fthsrbst" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fthsrbst&show_icons=true&locale=en" alt="fthsrbst" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fthsrbst&" alt="fthsrbst" /></p>
+💬 Feel free to reach out if you want to collaborate on projects, discuss AI & game dev, or just say hi!
