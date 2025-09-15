@@ -19,7 +19,7 @@ I'm a passionate software engineer currently studying **Software Engineering at 
 - 🎮 **Game Engine:** Unreal Engine, Blender
 
 📫 **Let's Connect!**
-- 🔗 [Portfolio Website](https://fatihserbest.com) (Coming soon)
+- 🔗 [Portfolio Website](https://fatihserbest.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fatih-serbest-a21425223/)
 
 💬 Feel free to reach out if you want to collaborate on projects, discuss AI & web development, or just say hi!
