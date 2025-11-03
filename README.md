@@ -29,128 +29,43 @@ I'm a passionate Software Engineering student at Beykoz University with experien
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Development Tools & Platforms**
+### **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### **Game Development & 3D**
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+---
+
+## 🧩 Competitive Programming (LeetCode)
+
+<a href="https://leetcode.com/u/Achernarr/">
+  <img src="https://leetcard.jacoblin.cool/Achernarr?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</a>
 
 ---
 
-## 💼 Current Projects & Portfolio
-
-### 🤖 **AI-Powered Inventory Management System**
-**Tech Stack**: `ASP.NET Core` `Entity Framework` `SQL Server` `Machine Learning`
-- Comprehensive e-commerce inventory solution
-- Demand forecasting using ML algorithms
-- Real-time stock optimization and alerts
-- RESTful API design with clean architecture
-
-### 🌐 **Full-Stack Web Applications**
-**Tech Stack**: `ASP.NET MVC` `.NET Core` `Bootstrap 5` `JavaScript`
-- Responsive web applications with modern UI/UX
-- Database-first approach with Entity Framework
-- User authentication and authorization systems
-- RESTful services and API integration
-
-### 🧠 **Machine Learning Projects**
-**Tech Stack**: `Python` `TensorFlow` `scikit-learn` `Data Analysis`
-- Predictive analytics models
-- Data preprocessing and feature engineering
-- Model optimization and performance tuning
-- Business intelligence dashboards
-
----
-
-## 📚 Currently Learning & Expanding Into
-
-### 🚁 **Robotics & Autonomous Systems** *(Learning Phase)*
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-00599C?style=for-the-badge&logo=drone&logoColor=white)
-
-**Currently studying and preparing to work with:**
-- **ROS2 (Robot Operating System 2)** - Modern robotics middleware
-- **PX4 Flight Stack** - Advanced autopilot software for drones
-- **Autonomous navigation algorithms** and path planning
-- **Computer vision for robotics** applications
-- **Multi-agent systems** and swarm intelligence
-
-*🎯 Goal: To integrate my AI/ML background with robotics to create intelligent autonomous systems*
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fthsrbst&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fthsrbst&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
-## 🎯 Professional Roadmap
+## 🚁 Currently Learning: Robotics & Autonomous Systems
 
-```python
-development_journey = {
-    "current_expertise": [
-        "Full-stack web development (.NET ecosystem)",
-        "AI/ML applications and data science",
-        "Database design and optimization",
-        "Software architecture patterns"
-    ],
-    "expanding_into": [
-        "ROS2 ecosystem and robotics programming",
-        "PX4 flight controller development",
-        "Computer vision for autonomous systems",
-        "Real-time embedded systems"
-    ],
-    "future_goals": [
-        "Autonomous drone systems development",
-        "AI-powered robotics applications",
-        "IoT and edge computing solutions",
-        "Entrepreneurship in AI-robotics domain"
-    ]
-}
-```
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-00599C?style=for-the-badge&logo=drone&logoColor=white)
+
+Focused on:
+- ROS2 navigation stack
+- PX4 flight stack & tuning
+- Multi-agent drone coordination
+- Computer vision for autonomy
 
 ---
 
-## 🌟 Core Values & Approach
-
-**Innovation**: Constantly exploring emerging technologies to create next-generation solutions
-
-**Quality**: Writing clean, maintainable code following industry best practices and SOLID principles
-
-**Learning**: Committed to continuous skill development and staying current with technology trends
-
-**Integration**: Bridging traditional software development with modern AI and robotics technologies
-
----
-
-## 🎖️ Technical Achievements
-
-- ✅ **Enterprise Web Applications**: Built scalable .NET applications with clean architecture
-- ✅ **AI Integration**: Successfully implemented ML models in production environments
-- ✅ **Database Optimization**: Designed efficient database schemas and optimized queries
-- ✅ **Full-Stack Proficiency**: End-to-end development from database to responsive frontend
-- 📚 **Currently Preparing**: ROS2 and PX4 development environment setup and fundamentals
-
----
-
-## 🌐 Languages & Communication
-
-- 🇹🇷 **Turkish**: Native
-- 🇺🇸 **English**: Intermediate (actively improving to fluent level)
-- 💻 **Programming**: Multi-language proficiency
-
----
-
-## 📞 Let's Connect!
-
-I'm always excited to discuss **software development**, **AI applications**, **robotics**, and potential collaboration opportunities. Whether you want to talk about web development, machine learning, or the exciting world of autonomous systems!
+## 📞 Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihserbestt/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihxserbest@gmail.com)
@@ -158,9 +73,4 @@ I'm always excited to discuss **software development**, **AI applications**, **r
 
 ---
 
-*"Bridging the gap between traditional software engineering and the future of intelligent autonomous systems."*
-
-### 🚀 Current Focus
-```
-Web Development & AI ➜ Learning ROS2 & PX4 ➜ Future: Autonomous Robotics
-```
+*"Bridging traditional software engineering with intelligent autonomous systems."*
