@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.ibb.co/4ZZFDPRb/chat.png" width="100%" />
+</p>
 # Fatih Serbest
 
 **Software Engineer | Cybersecurity Intern**
