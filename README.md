@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/4ZZFDPRb/chat.png" width="100%" />
+  <img src="https://i.hizliresim.com/oa55g03.png" width="100%" />
 </p>
 # Fatih Serbest
 
