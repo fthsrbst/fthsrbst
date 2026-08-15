@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.hizliresim.com/oa55g03.png" width="100%" alt="Fatih Serbest banner" />
+  <a href="https://postimg.cc/ZvNmyVNP" target="_blank">
+    <img src="https://i.postimg.cc/yxQ8tGYG/carinanebula3(1).jpg" width="100%" alt="Fatih Serbest banner" border="0" />
+  </a>
 </p>
 
 <h1 align="center">Fatih Serbest</h1>
